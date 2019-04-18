@@ -5,5 +5,5 @@ This project is intended for me to understand which mutual funds have "good perf
 
 To analyze the data, I wrote transformation functions in R that gathers the data, cleans it, and transforms it into the desired form. 
 
-As an example, the screenshot below shows the result when I apply a transformation function to the data for 2018 quarter 4. 
+
 
