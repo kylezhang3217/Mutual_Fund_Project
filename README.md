@@ -9,3 +9,5 @@ I verified that it is extremely difficult for a mutual fund to consistently beat
 In this project, I wrote data transformation pipelines that looked through the SEC Data Mutual Fund database, and returned tables of those mutual funds that beat their index benchmark. 
 
 In addition, I had written a transformation script that pulls out the portfolio turnover rate of the mutual funds. 
+
+In Fund_Info_Results, it is an example of what my scripts return when applied to SEC mutual fund data from 2018 quarter 4. 
